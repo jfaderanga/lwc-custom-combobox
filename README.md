@@ -33,4 +33,4 @@ Options format, group is optional, it can be present on the object or not at all
 ]
 ```
 Demo
-![This is an image](https://github.com/jfaderanga/lwc-custom-combobox/demo.gif)
+![This is an image](https://github.com/jfaderanga/lwc-custom-combobox/blob/master/demo.gif)
